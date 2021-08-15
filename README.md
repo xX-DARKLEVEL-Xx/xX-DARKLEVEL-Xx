@@ -1,13 +1,17 @@
-Hello,
-Who are you?
-I'll probably never know...
-<a align = "left"><img src=""></a>
-  
-And me,
-who am I?
-I am the Darklevel and my github is https://github.com/xX-DARKLEVEL-Xx
+<p align = "center">
+    <a><img src ="https://github.com/xX-DARKLEVEL-Xx/xX-DARKLEVEL-Xx/blob/main/src/letters/cyborg-letter-d.png" width = "30px"></a>
+    <a><img src ="https://github.com/xX-DARKLEVEL-Xx/xX-DARKLEVEL-Xx/blob/main/src/letters/cyborg-letter-a.png" width = "30px"></a>
+    <a><img src ="https://github.com/xX-DARKLEVEL-Xx/xX-DARKLEVEL-Xx/blob/main/src/letters/cyborg-letter-r.png" width = "30px"></a>
+    <a><img src ="https://github.com/xX-DARKLEVEL-Xx/xX-DARKLEVEL-Xx/blob/main/src/letters/cyborg-letter-k.png" width = "30px"></a>
+    <a><img src ="https://github.com/xX-DARKLEVEL-Xx/xX-DARKLEVEL-Xx/blob/main/src/letters/cyborg-letter-l.png" width = "30px"></a>
+    <a><img src ="https://github.com/xX-DARKLEVEL-Xx/xX-DARKLEVEL-Xx/blob/main/src/letters/cyborg-letter-e.png" width = "30px"></a>
+    <a><img src ="https://github.com/xX-DARKLEVEL-Xx/xX-DARKLEVEL-Xx/blob/main/src/letters/cyborg-letter-v.png" width = "30px"></a>
+    <a><img src ="https://github.com/xX-DARKLEVEL-Xx/xX-DARKLEVEL-Xx/blob/main/src/letters/cyborg-letter-e.png" width = "30px"></a>
+    <a><img src ="https://github.com/xX-DARKLEVEL-Xx/xX-DARKLEVEL-Xx/blob/main/src/letters/cyborg-letter-l.png" width = "30px"></a>
 
-<!---
-xX-DARKLEVEL-Xx/xX-DARKLEVEL-Xx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+</p>
+
+
+
+<a align = "center">![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xX-DARKLEVEL-Xx&hide=prs&count_private=true&show_icons=true&theme=midnight-purple)</a>
+
