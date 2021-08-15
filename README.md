@@ -5,6 +5,7 @@
 <p>
     <h1 align = "center">HI 👋, welcome to my Github's page !<h1>
 </p>
+
 <!---
 <p align = "center">
     <a><img src ="https://github.com/xX-DARKLEVEL-Xx/xX-DARKLEVEL-Xx/blob/main/src/letters/cyborg-letter-d.png" width = "30px"></a>
@@ -19,7 +20,11 @@
 </p> 
 --->
 
-<h1 align = "center">I learn<h1>
+
+<p align = "center">
+    <a><h2>I learn :<h2><img href ="https://www.python.org" src ="https://github.com/xX-DARKLEVEL-Xx/xX-DARKLEVEL-Xx/blob/main/src/python_logo.png" width ="20px"></a>
+    <a><img href ="" src ="https://github.com/xX-DARKLEVEL-Xx/xX-DARKLEVEL-Xx/blob/main/src/html_logo.png" width ="20px"></a>
+</p>
 
 
 <p align = "center">
