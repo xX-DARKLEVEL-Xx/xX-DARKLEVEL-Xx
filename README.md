@@ -1,3 +1,4 @@
+
 <p align = "center">
     <a><img src = "https://github.com/xX-DARKLEVEL-Xx/xX-DARKLEVEL-Xx/blob/main/src/cyborg-88.png" width = "300px" >
     </a>
@@ -16,7 +17,9 @@
 
 <h1 align = "center">Salut 👋, bienvenue sur ma page Github !</h1>
 
-<h2 align ="center">Je suis au lycée et j'aimerais être ingénieur en cybersécuritée. J'étudie donc tout seul et votre aide serait pour moi le plus grand des soutiens, j'apprends le python et l'HTML car se sont je pense les langages fondamentals et j'étudie également le pentesting, l'univers du "hacking" en général.</h2>
+<h3>Je suis au lycée et j'aimerais être ingénieur en cybersécuritée. J'étudie donc tout seul et votre aide serait pour moi le plus grand des soutiens, j'apprends les langages informatiques les plus courants et j'étudie également le pentesting, l'univers du "hacking" en général.</h3>
+
+<h2 align ="center"><strong>Mes stats</strong></h2>
 <p align = "center">
     <a><img src ="https://github.com/xX-DARKLEVEL-Xx/xX-DARKLEVEL-Xx/blob/main/src/python_logo.png" width ="100px"></a>
     <a><img src ="https://github.com/xX-DARKLEVEL-Xx/xX-DARKLEVEL-Xx/blob/main/src/html_logo.png" width ="100px"></a>
@@ -32,7 +35,9 @@
 
 
 <p>
-    <h1 align ="center">Contacts :</h1>
-    <h1 align ="center">darklevel@protonmail.com</h1>
-    <h1 align ="center">Discord</h1>
+    <h2>Contacts :</h2>
+    <ol>
+        <ul><strong>Email : </strong>darklevel_contact@protonmail.com</ul>
+        <ul><strong>Discord : </strong>𝕯arklevel#9289</ul>
+    </ol>
 </p>
