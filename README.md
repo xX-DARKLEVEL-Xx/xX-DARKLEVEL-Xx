@@ -25,13 +25,14 @@
     <a><img src ="https://github.com/xX-DARKLEVEL-Xx/xX-DARKLEVEL-Xx/blob/main/src/html_logo.png" width ="100px"></a>
 </p>
 
-
-
-
-
 <p align = "center">
     <a><img src = "https://github-readme-stats.vercel.app/api?username=xX-DARKLEVEL-Xx&hide=prs&count_private=true&show_icons=true&theme=gotham"width = "350px" height ="200px"></a>
     <a><img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=xX-DARKLEVEL-Xx&layout=compact)"width = "350px" height = "200px"></a>
+    
+<h2>Mes projets actuels :</h2>
+<p align = "center">
+    <a><img href = "https://github.com/xX-DARKLEVEL-Xx/xX-DARKLEVEL-Xx" src = "https://github-readme-stats.vercel.app/api/pin/?username=xX-DARKLEVEL-Xx&repo=Url_shearcher"></a>
+</p>
 
 
 <p>
