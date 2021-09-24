@@ -38,7 +38,6 @@
 <p>
     <h2>Contacts :</h2>
     <ol>
-        <ul><strong>Email : </strong>darklevel_contact@protonmail.com</ul>
         <ul><strong>Discord : </strong>𝕯arklevel#9289</ul>
     </ol>
 </p>
