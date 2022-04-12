@@ -25,12 +25,3 @@
 <p align = "center">
 
 </p>
-
-
-<p>
-    <h2><strong>Contacts :</strong></h2>
-    <ol>
-        <ul><strong>Email : </strong>darklevel_contact@protonmail.com</ul>
-        <ul><strong>Discord : </strong>𝕯arklevel#9289</ul>
-    </ol>
-</p>
