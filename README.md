@@ -11,9 +11,6 @@
 </p> 
 
 <h1 align = "center">Salut 👋, bienvenue sur ma page Github !</h1>
-
-<p align = "center"> <h3>Jeune developpeur dans mon temps libre, je m'amuse à créer des petits programmes par-ci par-là. Cependant j'ai un rêve DOMINER LE MONDE nan quand même ce serais pas original, mais plutôt d'en créer un, virtuel et anonyme, pour plus de libértés et de possibilités.</h3></p>
-
 ##
 <p align = "center">
     <a><img src ="https://github.com/xX-DARKLEVEL-Xx/xX-DARKLEVEL-Xx/blob/main/src/python_logo.png" width ="100px"></a>
