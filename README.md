@@ -12,7 +12,7 @@
 
 <h1 align = "center">Salut 👋, bienvenue sur ma page Github !</h1>
 
-#! <p align = "center">
+<p align = "center">
     <a><img src ="https://github.com/xX-DARKLEVEL-Xx/xX-DARKLEVEL-Xx/blob/main/src/python_logo.png" width ="100px"></a>
     <a><img src ="https://github.com/xX-DARKLEVEL-Xx/xX-DARKLEVEL-Xx/blob/main/src/html_logo.png" width ="100px"></a>
 </p>
